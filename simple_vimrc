@@ -1,0 +1,18 @@
+set ts=4
+set sw=4
+set expandtab
+
+set ruler
+set number
+
+set cindent
+
+set bg=dark
+set guifont=Monospace\ 12
+set guioptions-=T
+
+set hlsearch
+set incsearch
+set ignorecase
+
+colorscheme industry
